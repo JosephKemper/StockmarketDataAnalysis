@@ -10,7 +10,10 @@ At minimum, I will research 2 questions about the data, however one challenge I 
 
 # Data Analysis Results
 
-Question
+Is price volatility (a wide gap between high and low prices) good or bad for Tesla closing prices?
+: Definition
+
+Question 2
 : Definition
 
 # Development Environment
