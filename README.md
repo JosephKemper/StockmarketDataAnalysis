@@ -42,6 +42,16 @@ Question 2
 * [Pandas Official Site](https://pandas.pydata.org/)
 * [Oreilly Python for Data Analysis book](https://learning.oreilly.com/library/view/python-for-data/9781098104023/)
 * [Geeks For Geeks Pandas DataFrame describe() Method](https://www.geeksforgeeks.org/python-pandas-dataframe-describe-method/#)
+* [Cleaning Up Currency Data with Pandas](https://pbpython.com/currency-cleanup.html)
+* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](http://url.link.goes.here)
 * [Web Site Name](http://url.link.goes.here)
 
 # Future Work
