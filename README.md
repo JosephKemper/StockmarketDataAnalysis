@@ -49,18 +49,20 @@ Question 2
 * [Pandas .isocalendar Documentation](https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.isocalendar.html)
 * [StackOverflow extract week as series](https://stackoverflow.com/questions/61636684/pandas-extract-week-of-year-and-year-from-date)
 * [Pandas .quarter Documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.quarter.html)
-* [Web Site Name](http://url.link.goes.here)
+* [Pandas .dayofyear Documentation](https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.dayofyear.html)
 * [Web Site Name](http://url.link.goes.here)
 * [Web Site Name](http://url.link.goes.here)
 * [Web Site Name](http://url.link.goes.here)
 
 # Future Work
 ## Minimum Viable Product
-* Item 1
-* Item 2
-* Item 3
+* Prep Data for analysis
+* Maintain data integrity
+* Summarize data elements
+* Provide visualizations to data
+* Answer at least 2 questions about the data
 
 ## Future Plans
-* Item 1
-* Item 2
-* Item 3
+* Build a tool to allow for custom analysis
+* Modify code to allow for importing data from website 
+* Allow for analysis of other companies
