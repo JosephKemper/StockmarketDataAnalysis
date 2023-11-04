@@ -31,6 +31,7 @@ Question 2
 * [Anaconda Download](https://www.anaconda.com/)
 * [Anaconda Install Tutorial](https://www.youtube.com/watch?v=h1sAzPojKMg)
 * [Jupyter Notebooks in VS Code tutorial](https://www.youtube.com/watch?v=DA6ZAHBPF1U)
+* [Titanic Data Analysis Github Repository](https://github.com/claudiaregio/data-science)
 * [Nasdaq Stock Data on Tesla](https://www.nasdaq.com/market-activity/stocks/tsla/historical)
 * [NumPy Official Site](https://numpy.org/)
 * [Panda's Overview](https://pandas.pydata.org/docs/getting_started/overview.html)
@@ -40,6 +41,7 @@ Question 2
 * [Kaggle Exploratory Data Analysis with Pandas](https://www.kaggle.com/code/kashnitsky/topic-1-exploratory-data-analysis-with-pandas/notebook)
 * [Pandas Official Site](https://pandas.pydata.org/)
 * [Oreilly Python for Data Analysis book](https://learning.oreilly.com/library/view/python-for-data/9781098104023/)
+* [Geeks For Geeks Pandas DataFrame describe() Method](https://www.geeksforgeeks.org/python-pandas-dataframe-describe-method/#)
 * [Web Site Name](http://url.link.goes.here)
 
 # Future Work
