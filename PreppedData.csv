@@ -1,4 +1,4 @@
-Date,Close/Last,Volume,Open,High,Low,Volatility,HighLowAverage,GainedValue,DayOfWeek,Month,MonthAbbr,WeekNumber,Quarter,DayOfMonth,DayOfYear
+Date,Close/Last,Volume,Open,High,Low,DailyRange,HighLowAverage,GainedValue,DayOfWeek,Month,MonthAbbr,WeekNumber,Quarter,DayOfMonth,DayOfYear
 2023-10-31,200.84,118068300,196.12,202.8,194.07,8.73,198.44,True,Tuesday,October,Oct,44,4,31,304
 2023-10-30,197.36,136448200,209.28,210.88,194.67,16.21,202.77,False,Monday,October,Oct,44,4,30,303
 2023-10-27,207.3,94881170,210.6,212.41,205.77,6.64,209.09,False,Friday,October,Oct,43,4,27,300
