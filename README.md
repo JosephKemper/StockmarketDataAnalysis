@@ -10,10 +10,10 @@ At minimum, I will research 2 questions about the data, however one challenge I 
 
 # Data Analysis Results
 
-Is price volatility (a wide gap between high and low prices) good or bad for Tesla closing prices?
-: Definition
+Is a large difference in the daily range (the difference between high and low prices for the day) good for Tesla closing prices?
+: There does not appear to be any significant impact by a large daily range on Tesla's stock market closing prices. 
 
-Question 2
+Is a high trading volume good for the closing prices on Tesla stock?
 : Definition
 
 # Development Environment
