@@ -11,10 +11,10 @@ At minimum, I will research 2 questions about the data, however one challenge I 
 # Data Analysis Results
 
 Is a large difference in the daily range (the difference between high and low prices for the day) good for Tesla closing prices?
-: There does not appear to be any significant impact by a large daily range on Tesla's stock market closing prices. 
+: In short, possibly, but many other factors are likely involved. In the days with the most extreme gaps in high and low trading prices, there is a weak positive correlation that gets stronger as you include more data in the analysis, however, even with the most extreme correlation, the split of the days gained verses days lost is very close to 50%, so caution is recommended when trying to apply this in any real format. 
 
 Is a high trading volume good for the closing prices on Tesla stock?
-: Definition
+: In short, it seems to play little to no role. There is a very weak negative correlation between increased volume and the price of the stock increasing, suggesting there is a slight tendency for the stock to close at a lower price on those days with a high volume, but the correlation is extremely weak and at best has many other factors involved. 
 
 # Development Environment
 
