@@ -72,3 +72,5 @@ Is a high trading volume good for the closing prices on Tesla stock?
 * Build a tool to allow for custom analysis
 * Modify code to allow for importing data from website 
 * Allow for analysis of other companies
+* Study about closing price patterns for different days of the week. 
+* Do a three tiered study that looks at day, closing price, and each of the other variables I have already looked at individually. 
