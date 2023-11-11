@@ -6,7 +6,7 @@ A huge portion of the reason I am doing this project is pure unadulterated curio
 
 At minimum, I will research 2 questions about the data, however one challenge I will very likely have is limiting myself to a reasonable number of questions to research.
 
-[Software Demo Video -- Coming 11 Nov 2023](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/4r4CNK917gg)
 
 # Data Analysis Results
 
@@ -57,8 +57,7 @@ Is a high trading volume good for the closing prices on Tesla stock?
 * [Stackoverflow How to plot in multiple subplots](https://stackoverflow.com/questions/31726643/how-to-plot-in-multiple-subplots)
 * [Geeks for Geeks Plot multiple plots in Matplotlib](https://www.geeksforgeeks.org/plot-multiple-plots-in-matplotlib/#)
 * [Geeks for Geeks How to create multiple subplots in Matplotlib in Python?](https://www.geeksforgeeks.org/how-to-create-multiple-subplots-in-matplotlib-in-python/)
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+
 
 # Future Work
 ## Minimum Viable Product
